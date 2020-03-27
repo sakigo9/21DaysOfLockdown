@@ -7,8 +7,14 @@
 
 **Link to work:**https://github.com/sakigo9/21DaysOfLockdown/tree/master/Day%201 [2] https://www.hackerrank.com/saketprag322
 
-### Day 1: 26 march 2020 (Hacker rank + Coding Ninjas Event)
+### Day 2: 26 march 2020 (Hacker rank + Coding Ninjas Event)
 
 **Today's Progress**: Got my bronze bage in problem solving in Hacker Rank. Given 5th test in coding Ninja.
+
+**Link to work:**https://github.com/sakigo9/21DaysOfLockdown/tree/master/Day%201 [2] https://www.hackerrank.com/saketprag322
+
+### Day 3: 27 march 2020 (Hacker rank Azure Documentation)
+
+**Today's Progress**: Got my second star in problem sloving assesment in hacker Rank. Saw few azure documentation.
 
 **Link to work:**https://github.com/sakigo9/21DaysOfLockdown/tree/master/Day%201 [2] https://www.hackerrank.com/saketprag322
