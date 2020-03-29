@@ -21,6 +21,12 @@
 
 ### Day 4: 28 march 2020 (Hacker rank Portfolio Website Unity Game)
 
-**Today's Progress**: Solved hackerRank Question based on Data Science and Algorithm. Worked on my portfolio website and learn essentials of making games in unity.
+**Today's Progress**: Solved hackerRank Question based on Data Structure  and Algorithm. Worked on my portfolio website and learn essentials of making games in unity.
+
+**Link to work:**https://github.com/sakigo9/21DaysOfLockdown/tree/master/Day%201 [2] https://www.hackerrank.com/saketprag322
+
+### Day 5: 29 march 2020 (Hacker rank )
+
+**Today's Progress**: Solved hackerRank Question based on Data Structure and Algorithm.
 
 **Link to work:**https://github.com/sakigo9/21DaysOfLockdown/tree/master/Day%201 [2] https://www.hackerrank.com/saketprag322
