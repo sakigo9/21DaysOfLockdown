@@ -36,3 +36,9 @@
 **Today's Progress**: Solved hackerRank Question based on Data Structure and Algorithm.
 
 **Link to work:**https://github.com/sakigo9/21DaysOfLockdown/tree/master/Day%201 [2] https://www.hackerrank.com/saketprag322
+
+### Day 7: 31 march 2020 (Hacker rank + Portfolio + Azure Cognitive Services)
+
+**Today's Progress**: Solved hackerRank Question based on Data Structure and Algorithm. Getting the designing part of my potfolio done. Also looked into the cognitive rest api basics.
+
+**Link to work:**https://github.com/sakigo9/21DaysOfLockdown/tree/master/Day%201 [2] https://www.hackerrank.com/saketprag322
