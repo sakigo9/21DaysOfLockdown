@@ -48,3 +48,15 @@
 **Today's Progress**: Solved hackerRank Question based on Data Structure and Algorithm and Python. Getting the designing part of my portfolio done. Also looked into the cognitive rest api basics.
 
 **Link to work:**https://github.com/sakigo9/21DaysOfLockdown/tree/master/Day%201 [2] https://www.hackerrank.com/saketprag322
+
+### Day 9: 2 April 2020 (Hacker rank + Portfolio + Azure Cognitive Services)
+
+**Today's Progress**: Solved hackerRank Question based on Data Structure and Algorithm and Python. Getting the background part of my portfolio done. Prepared ppts for the azure Rest api demo.
+
+**Link to work:**https://github.com/sakigo9/21DaysOfLockdown/tree/master/Day%201 [2] https://www.hackerrank.com/saketprag322
+
+### Day 10: 3 April 2020 (Hacker rank + Portfolio )
+
+**Today's Progress**: Solved hackerRank Question based on Data Structure and Algorithm and Python. Getting the designingcontent and description  part of my portfolio done. 
+
+**Link to work:**https://github.com/sakigo9/21DaysOfLockdown/tree/master/Day%201 [2] https://www.hackerrank.com/saketprag322

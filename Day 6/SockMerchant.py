@@ -13,4 +13,4 @@ def sockMerchant(n, ar):
     return count 
 ar=[1,1,3,1,2,1,3,3,3,3]
 res=sockMerchant(9,ar)
-print(res)
+print(res) 
