@@ -60,3 +60,9 @@
 **Today's Progress**: Solved hackerRank Question based on Data Structure and Algorithm and Python. Getting the designingcontent and description  part of my portfolio done. 
 
 **Link to work:**https://github.com/sakigo9/21DaysOfLockdown/tree/master/Day%201 [2] https://www.hackerrank.com/saketprag322
+
+### Day 11: 4 April 2020 (Hacker rank + PlacementPrep )
+
+**Today's Progress**: Solved hackerRank Question based on Data Structure and Algorithm . Practising pointers.
+
+**Link to work:**https://github.com/sakigo9/21DaysOfLockdown/tree/master/Day%201 [2] https://www.hackerrank.com/saketprag322
