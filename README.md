@@ -77,4 +77,10 @@
 
 **Today's Progress**: Solved hackerRank Question based on Data Structure and Algorithm . Almost completed my portfolio website.
 
+**Link to work:**https://github.com/sakigo9/21DaysOfLockdown/tree/master/Day%201 [2] https://www.hackerrank.com/
+
+## Day 14: 7 April 2020 (Hacker rank + Portfolio )
+
+**Today's Progress**: Solved hackerRank Question based on Data Structure and Algorithm . Completed my portfolio website.
+
 **Link to work:**https://github.com/sakigo9/21DaysOfLockdown/tree/master/Day%201 [2] https://www.hackerrank.com/saketprag322
