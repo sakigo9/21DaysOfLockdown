@@ -90,3 +90,9 @@
 **Today's Progress**: Solved hackerRank Question based on Data Structure and Algorithm . Solved my first question in leedcode.
 
 **Link to work:**https://github.com/sakigo9/21DaysOfLockdown/tree/master/Day%201 [2] https://www.hackerrank.com/saketprag322
+
+## Day 16: 9 April 2020 (Hacker rank + IEEE paper )
+
+**Today's Progress**: Solved hackerRank Question based on Data Structure and Algorithm . Going through IEEE paper.
+
+**Link to work:**https://github.com/sakigo9/21DaysOfLockdown/tree/master/Day%201 [2] https://www.hackerrank.com/saketprag322
