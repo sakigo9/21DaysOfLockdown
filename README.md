@@ -162,3 +162,8 @@
 **Today's Progress**: Solved hackerRank Question based on Data Structure and Algorithm .
 
 **Link to work:**https://github.com/sakigo9/21DaysOfLockdown/tree/master/Day%201 [2] https://www.hackerrank.com/saketprag322
+
+## Day 28: 21 April 2020 (Hacker rank)
+
+**Today's Progress**: Learned Dynamic memory Allocation using c.
+
