@@ -165,5 +165,7 @@
 
 ## Day 28: 21 April 2020 (Hacker rank)
 
-**Today's Progress**: Learned Dynamic memory Allocation using c.
+**Today's Progress**: Learned Dynamic memory Allocation using c. Studied linked List .
+
+**Link to work:**https://github.com/sakigo9/21DaysOfLockdown/tree/master/Day%201 [2] https://www.hackerrank.com/saketprag322
 
