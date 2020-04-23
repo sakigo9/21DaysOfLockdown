@@ -163,9 +163,16 @@
 
 **Link to work:**https://github.com/sakigo9/21DaysOfLockdown/tree/master/Day%201 [2] https://www.hackerrank.com/saketprag322
 
-## Day 28: 21 April 2020 (Hacker rank)
+## Day 29: 21 April 2020 (Hacker rank)
 
 **Today's Progress**: Learned Dynamic memory Allocation using c. Studied linked List .
 
 **Link to work:**https://github.com/sakigo9/21DaysOfLockdown/tree/master/Day%201 [2] https://www.hackerrank.com/saketprag322
+
+## Day 30: 21 April 2020 (Hacker rank)
+
+**Today's Progress**: Solved few Hackerrank Problems.
+
+**Link to work:**https://github.com/sakigo9/21DaysOfLockdown/tree/master/Day%201 [2] https://www.hackerrank.com/saketprag322
+
 
