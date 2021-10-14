@@ -35,3 +35,6 @@ for i  in l:
 print(d) 
 Keymax = max(d, key=d.get) 
 print(Keymax) 
+
+// Time Complexity : O(N)
+// Space Complexity : O(1)
