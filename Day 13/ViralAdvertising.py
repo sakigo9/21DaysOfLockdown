@@ -19,6 +19,7 @@ def viralAdvertising(n):
         
         
     return int(res)
+#Returnig the result as res
 
 
 
