@@ -5,6 +5,7 @@ for i in range(n):
     a.append(int(input()))
     
 for i in a:
+    #using the concept of exception handling 
     try:
         d[i]+=1
     except:
