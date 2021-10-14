@@ -7,6 +7,7 @@ import re
 import sys
 
 # Complete the camelcase function below.
+# hacktoberFest : this is a example of camelCase 
 def camelcase(s):
     c=1
     for i in s:
