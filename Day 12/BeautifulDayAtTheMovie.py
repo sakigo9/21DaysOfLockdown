@@ -7,6 +7,7 @@ import re
 import sys
 
 # Complete the beautifulDays function below.
+# Movie Day 27th April 2018
 def beautifulDays(i, j, k):
     c=0
              
