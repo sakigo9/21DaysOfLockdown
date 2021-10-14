@@ -11,6 +11,7 @@ def findDigits(n):
     p=str(n)
     t=int(n)
     c=0
+    #using for loop
     for i in p:
      
         if int(i)==0:
