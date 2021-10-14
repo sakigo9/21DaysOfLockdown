@@ -19,6 +19,7 @@ def equalizeArray(arr):
             count=0
             
     max_val=max(G, key=G.get)
+    #using max function to get max of G and Key
     return (len(arr)-G[max_val]) 
 
 if __name__ == '__main__':
