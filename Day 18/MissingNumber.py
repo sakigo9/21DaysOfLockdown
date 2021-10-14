@@ -1,3 +1,7 @@
+
+Time Complexity : O(N)
+Space Complexity : O(101)
+
 def solveMissing(n, m):
     n_cnt = [0] * 101
     m_cnt = [0] * 101
