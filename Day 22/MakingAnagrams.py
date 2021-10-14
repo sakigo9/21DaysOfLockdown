@@ -14,3 +14,6 @@ while j<len(s2):
 for i in range(26):
     r+=abs(d1[i]-d2[i])
 print(r)
+
+Time Complexity : O(N)
+Space Complexity : O(26)
