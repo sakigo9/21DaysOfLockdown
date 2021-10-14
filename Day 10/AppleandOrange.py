@@ -9,7 +9,7 @@ import sys
 # Complete the countApplesAndOranges function below.
 def countApplesAndOranges(s, t, a, b, apples, oranges):
     c,v=0,0
-    
+    # using for loop statement
     for i in apples:
         
         if (i+a)>=s and (i+a)<=t:
