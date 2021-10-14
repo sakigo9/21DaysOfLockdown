@@ -16,6 +16,7 @@ def pangrams(s):
     s1=list(s)
     d1=[0]*26
     i=0
+    #using while statement
     while i<len(s1):
         d1[ord(s1[i])-ord('a')]+=1
         i+=1
