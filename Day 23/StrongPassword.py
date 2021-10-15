@@ -1,3 +1,5 @@
+# Time Complexity: O(N)
+# Space Complexity : O(1) 
 s=input("\n")
 n=len(s)
 
