@@ -1,5 +1,5 @@
 #!/bin/python3
-
+# Time Complexity : O(n)
 import os
 import sys
 
