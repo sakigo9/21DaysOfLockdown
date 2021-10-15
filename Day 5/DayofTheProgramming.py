@@ -3,7 +3,7 @@ import os
 import random
 import re
 import sys
-
+# Time Complexity : O(N)
 # Complete the dayOfProgrammer function below.
 def dayOfProgrammer(year):
     if year == 1918:
