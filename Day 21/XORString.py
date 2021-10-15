@@ -1,3 +1,6 @@
+#Time Complexity : O(s) s is length of string
+
+
 def strings_xor(s, t):
     res = ""
     for i in range(len(s)):
