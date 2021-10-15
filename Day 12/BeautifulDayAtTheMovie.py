@@ -15,7 +15,8 @@ def beautifulDays(i, j, k):
         d=str(p)
         r=d[::-1]
         r=int(r)
-        if abs(r-p)%k==0:
+        x=abs(r-p)
+        if x%k==0:
             c+=1
     return c             
 
