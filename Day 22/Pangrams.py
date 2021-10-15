@@ -1,5 +1,6 @@
 #!/bin/python3
-
+# Time Complexity: O(N)
+# Space Complexity : O(26) Constant
 import math
 import os
 import random
