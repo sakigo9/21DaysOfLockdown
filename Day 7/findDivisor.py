@@ -1,5 +1,5 @@
 #!/bin/python3
-
+# Time Complexity : O(N)
 import math
 import os
 import random
