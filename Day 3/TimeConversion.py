@@ -12,8 +12,8 @@ def timeConversion(s):
     else:
         if t[0] == "12":
             t[0] = "00"
-    
-    return (t[0]+s[2:-2])   
+    res=t[0]+s[2:-2]
+    return res   
 
 if __name__ == '__main__':
     f = open(os.environ['OUTPUT_PATH'], 'w')
