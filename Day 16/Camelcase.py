@@ -11,7 +11,7 @@ import sys
 def camelcase(s):
     c=1
     for i in s:
-        if i.isupper():
+        if i.isupper(): # check for upper case character
             c+=1
     return c
 if __name__ == '__main__':
