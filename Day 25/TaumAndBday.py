@@ -17,6 +17,7 @@ import sys
 #  4. INTEGER wc
 #  5. INTEGER z
 #
+#check no. 3
 
 def taumBday(b, w, bc, wc, z):
     if bc+z<wc:
