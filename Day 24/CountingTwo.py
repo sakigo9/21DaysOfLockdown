@@ -23,7 +23,7 @@ def getTotalX(a, b):
             count+=1
     return count
     # Write your code here
-
+#check no. 2
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')
 
