@@ -30,7 +30,7 @@ if __name__ == '__main__':
     #
     # The maximum amount of money she can spend on a keyboard and USB drive, or -1 if she can't purchase both items
     #
-
+#testing 123
     moneySpent = getMoneySpent(keyboards, drives, b)
 
     fptr.write(str(moneySpent) + '\n')
