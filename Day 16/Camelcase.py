@@ -10,9 +10,11 @@ import sys
 # hacktoberFest : this is a example of camelCase 
 def camelcase(s):
     c=1
+    x = ""
     for i in s:
-        if i.isupper(): # check for upper case character
+        if i.isupper() and x != ' ': # check for upper case character
             c+=1
+        x = i
     return c
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')
